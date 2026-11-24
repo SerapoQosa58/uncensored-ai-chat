@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="uncensored-ai-chat" width="840" />
-
 # UncensoredAiChat — Local Unfiltered LLM Chat with Character Presets (Portable x64 Build, JSON Configuration)
 
 <p><strong>UncensoredAiChat — Local Unfiltered LLM Chat with Character Presets (Portable x64 Build, JSON Configuration): Local, private, unfiltered AI chat. Your machine, your rules. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
